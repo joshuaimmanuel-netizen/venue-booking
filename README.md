@@ -1,2 +1,5 @@
 # venue-booking Console Application
-venue booking
+-> JDBC
+-> High Response
+-> Simple Code
+
